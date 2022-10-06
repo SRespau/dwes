@@ -59,6 +59,8 @@
             </select>
         </p>
         
+        <input type="hidden" name="ip" value="<?=$_SERVER['SERVER_ADDR']?>"><!--Hidden lo ocultará del visor de la página, pero si miras el codigo fuente en la página se verá cargado-->
+        <!--Se puede insertar codigo php directamente en una etiqueta-->
         <input type="submit" name="envio" id="envio" value="Enviar">
     </form>   
 </body>
