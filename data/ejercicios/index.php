@@ -26,12 +26,12 @@
     </li>
     <li>
       <a href="/ejemplos/<?php printf("%02d", ++$ejemplo);  ?>.php" target="_blank">Ejemplo <?php printf("%02d", $ejemplo);  ?></a>
-      Ejemolos de uso de echo y print.
+      Ejemplos de uso de echo y print.
     </li>
 
       <ul>
         <li>
-        <a href="/ejercicios/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
+        <a href="/solucionest2/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
         Imprimir una ficha con tus datos personales guardados en variables (nombre, apellidos, edad, teléfono, email, ...). Hazlo usando una tabla html y cambiando de modo:
         </li>
           <ol>
@@ -46,19 +46,19 @@
     </li>
       <ul>
         <li>
-          <a href="/ejercicios/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
+          <a href="/solucionest2/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
           Imprimir la tabla de multiplicar del 8. Usar constante para que fácilmente podamos adaptarla a otros números.
         </li>
         <li>
-          <a href="/ejercicios/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
+          <a href="/solucionest2/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
           Imprimir los números divisibles por 3 desde el 1 hasta el 10
         </li>
         <li>
-          <a href="/ejercicios/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
+          <a href="/solucionest2/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
           Imprimir los primeros 10 números de la sucesión de fibonacci. La sucesión comienza con los números 0 y 1; 2​ a partir de estos, «cada término es la suma de los dos anteriores»
         </li>
         <li>
-          <a href="/ejercicios/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
+          <a href="/solucionest2/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
           Dado un número por constante, por ejemplo el 169 o 193, mostrar la lista de todos sus divisores. Si no los hay decir que el número es primo.
         </li>
       </ul>
@@ -69,14 +69,14 @@
     </li>
       <ul>
         <li>
-          <a href="/ejercicios/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
+          <a href="/solucionest2/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
           Construír un array con el quinteto inicial de un equipo de basket. Construyelo usando "array()" y usando "[]". Imprimir dicho quinteto usando etiquetas "ul" y "li". Imprimelo de dos modos distintos: 
             <br>
             a) Indicando sólo los nombres.
             b) Indicando la posición del nombre en el array (0, 1, 2, ...).
         </li>
         <li>
-          <a href="/ejercicios/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
+          <a href="/solucionest2/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
           Construye un array con el nombre de 4 países y muestralo por pantalla.
         </li>
       </ul>
@@ -86,11 +86,11 @@
     </li>
       <ul>
         <li>
-          <a href="/ejercicios/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
+          <a href="/solucionest2/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
           Repitite el ejercicio 6 añadiendo los elementos al array de uno en uno.
         </li>
         <li>
-          <a href="/ejercicios/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
+          <a href="/solucionest2/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
           Repitite el ejercicio 7 añadiendo los elementos al array de uno en uno.
         </li>
       </ul>
@@ -100,7 +100,7 @@
     </li>
       <ul>
         <li>
-          <a href="/ejercicios/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
+          <a href="/solucionest2/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
           Repitite el ejercicio 6. En esta ocasión debes usar un array asociativo. Cada posición se llamará correctamente: base, escolta, alero, alapivot, pivot.
           Muestra el resultado con un "foreach (clave => valor)"
         </li>
@@ -132,20 +132,20 @@
 
       <ul>
         <li>
-          <a href="/ejercicios/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
+          <a href="/solucionest2/<?php printf("%02d", ++$ejercicio);  ?>.html" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
           Crea un formulario para enviar los datos de registro de un libro: título, autor, editorial, páginas.
         </li>
         <li>
-          <a href="/ejercicios/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
+          <a href="/solucionest2/<?php printf("%02d", ++$ejercicio);  ?>.html" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
           Crea un formulario para enviar campo nombre. Si el nombre existe se da un saludo. Si no existe se vuelve atrás indicando que el campo es obligatorio.
         </li>
         <li>
-          <a href="/ejercicios/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
+          <a href="/solucionest2/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
           Envío del script al mismo script.
           Crea un formulario para enviar campo nombre. El nombre debe existir y debe tener un tamaño mínimo de 3 caracteres. Si es válido se da un saludo. Si no lo es se vuelve a mostar el formulario indicando que el campo es obligatorio y mostrando en el "input" el valor anterior no válido.
         </li>
         <li>
-          <a href="/ejercicios/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
+          <a href="/solucionest2/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
           Envío del script al mismo script. Crea un formulario que funcione como calculadora. Debe contener dos input como operandos y un select para elegir operador.
             <ul>
               <li> Si se reciben los datos muestra el resultado. </li>
@@ -153,7 +153,7 @@
             </ul>
         </li>
         <li>
-          <a href="/ejercicios/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
+          <a href="/solucionest2/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
           Crea un formulario que envíe un array de 3 nombres. Para hacerlo debes usar el mismo nombre en todos los input (name="nombres[]").
         </li>
       </ul>
