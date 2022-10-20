@@ -153,7 +153,7 @@
             </ul>
         </li>
         <li>
-          <a href="/solucionest2/<?php printf("%02d", ++$ejercicio);  ?>.php" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
+          <a href="/solucionest2/<?php printf("%02d", ++$ejercicio);  ?>.html" target="_blank">Ejercicio <?php printf("%02d", $ejercicio);  ?></a>
           Crea un formulario que envíe un array de 3 nombres. Para hacerlo debes usar el mismo nombre en todos los input (name="nombres[]").
         </li>
       </ul>
