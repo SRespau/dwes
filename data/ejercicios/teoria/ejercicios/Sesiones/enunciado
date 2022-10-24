@@ -1,0 +1,17 @@
+Crear un entorno de login
+
+- La pagina de login: usuario y password
+
+    - Usuario = usuario
+      Password = 1234 -> ok, rol = 0
+
+    - Usuario = admin
+      Password = 4567 -> ok, rol = 1
+
+    -Si no ok -> muestre mensaje de login erroneo
+
+- Si login ok -> prinipal.php   "Bienvenido usuario"
+
+    -Enlace logout.php
+
+- Logout.php -> cerrar la sesion y enlace/redirección a login.php
