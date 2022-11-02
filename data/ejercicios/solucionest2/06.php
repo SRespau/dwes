@@ -6,7 +6,8 @@
     <title>Ejercicio 6</title>
 </head>
 <body>
-<?php
+<?php   
+        //Construimos 2 arrays con jugadores de dos equipos.
         $lakers = ["LeBron James", "Anthony Davis", "Russell Westbrook", "Kendrick Nunn" , "Damien Jones"];
         $bulls = array("Lonzo Ball", "Zach LaVine", "Patrick Williams", "Derrick Jones Jr", "Nikola Vucevic");
         echo "<h3>Quinteto inicial Lakers</h3>";

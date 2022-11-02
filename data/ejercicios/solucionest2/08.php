@@ -7,6 +7,7 @@
 </head>
 <body>
 <?php
+    // Construimos los arrays añadiendo los campos unitariamente. Los datos nuevos se añadirán al final del array
         $lakers[] = "LeBron James";
         $lakers[] = "Anthony Davis";
         $lakers[] = "Russell Westbrook";

@@ -7,6 +7,7 @@
 </head>
 <body>
     <?php
+// Construimos los arrays con datos asociativos. Para cada jugador cambiamos el nombre de la clave por defecto por su posición
         $lakers = array(
             "alero" => "LeBron James", 
             "alapivot" => "Anthony Davis", 
@@ -23,7 +24,7 @@
 
         echo "<h3>Quinteto inicial Lakers</h3>";
         echo "<ul>";
-        
+        //Mostramos ambas arrays asociativas con un for each.
         foreach ($lakers as $posicion=>$jugador){
             echo "<li>" . $posicion . " -> " . $jugador . '</li>';
         }

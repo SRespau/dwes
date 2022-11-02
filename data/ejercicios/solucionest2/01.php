@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    //establecemos variables
+    //Establecemos variables con nuestros datos
         $nombre = "Sergio";
         $apellidos = "Respau Aldana";
         $edad = 32;
@@ -15,10 +15,11 @@
         $email = "emailprueba@gmail.com";
 
     //1.- Imprimir con print y con echo
+    //Usando doble comillas
     print("El alumno es: " . $nombre . " " . $apellidos . "<br>    Edad: " . $edad
     . "<br>    Teléfono: " . $telefono . "<br>    Email: " . $email);
     print("<br>-----------------------------------<br>");
-
+    // Usando comillas simples
     echo('El alumno es: ' . $nombre . ' ' . $apellidos . '<br>    Edad: ' . $edad
     . '<br>    Teléfono: ' . $telefono . '<br>    Email: ' . $email);
     ?>

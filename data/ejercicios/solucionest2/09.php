@@ -7,6 +7,7 @@
 </head>
 <body>
     <?php
+    // Construimos el array añadiendo los campos unitariamente. Los datos nuevos se añadirán al final del array
         $paises[] = "España";
         $paises[] = "Francia";
         $paises[] = "Italia";

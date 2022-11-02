@@ -9,6 +9,8 @@
     <h1>--Bienvenido a mi primera aplicación--</h1>
     <h4>Elija la opción que desearía realizar:</h4>
     <ul>
+        <!-- Links formados por los métodos que aparecerán por cabecerá para que los detecte y redirija a las funciones de App.php -->
+        <!-- Necesita un include de esta página en App.php para su correcto funcionamiento -->
         <li><a href="?method=fibonacci">Mostrar la cadena fibonacci del número 1.000.000</a></li>
         <li><a href="?method=potencias2">Mostrarlos valores de 2 hasta elevarlo 24 veces</a></li>
         <li><a href="?method=factorial">Mostrar los números factoriales hasta que el más cercano al millón</a></li>

@@ -26,8 +26,12 @@
 </head>
 <body>
   <?php
+  // Indice de nuestra página. Nos saludará al acceder.
+  // Carga la cabecera de nuestra pagina donde aparecerá Inicio, Login y Logout
+
     require('vistas/header.php');
-  ?>
+  ?> 
+
   <h1>Home de <?= $this->name ?></h1>
   <h5>¡Muy buenas! Nos encontramos en el índice de nuestra página</h5>
   <h5>Por favor, haz login con tu usuario y contraseña para continuar.</h5>

@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="css/default.css">
-  <title>Indice</title>
+  <title>Index Ejercicio 19</title>
   <style> 
     ul {
       list-style-type: none;
@@ -32,6 +32,7 @@
   ?>
   <h1>Home de <?= $this->name ?></h1>
   <h5>¡Muy buenas! Nos encontramos en el índice de nuestra página</h5>
+  <h5>Por favor, haz login con tu usuario y contraseña para continuar.</h5>
  
   </body>
 </html>

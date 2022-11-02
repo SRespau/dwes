@@ -7,6 +7,7 @@
 </head>
 <body>
     <?php
+    //Imprimirá con el uso de un bucle los números divisibles de 3 entre 1 y 10. Usará "modulo" para saber si es divisible o no.
         echo("Los números entre 1 y 10 divisibles para 3 son: ");
         for($div = 1; $div <= 10; $div++){
             if($div % 3 == 0){

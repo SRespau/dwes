@@ -7,6 +7,7 @@
 </head>
 <body>
     <?php
+    // Construimos array con 5 nombes y lo mostramos en pantalla
         $paises = ["España", "Francia", "Italia", "Alemania", "Zimbawe"];
         print_r($paises);
     ?>

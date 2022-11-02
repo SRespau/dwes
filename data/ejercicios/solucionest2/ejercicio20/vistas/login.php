@@ -27,12 +27,10 @@
 </head>
 <body>
   <?php
-
-  // Carga la cabecera de nuestra pagina donde aparecerá Inicio, Login y Logout
+      // Carga la cabecera de nuestra pagina donde aparecerá Inicio, Login y Logout
     require('vistas/header.php');
   ?>
   <h1>Login de usuario registrado</h1>
-
   <!-- Formulario para obtener los datos de usuario y contraseña por metodo post -->
   <!-- Mandará a la función autenticar de app.php -->
   <form action="?method=auth" method="post">
