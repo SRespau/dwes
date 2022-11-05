@@ -1,7 +1,4 @@
 <!-- Entramos en la sesión creada -->
-<?php
-  session_start();
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,9 +14,9 @@
 
   </style>
 </head>
-<body>  
+<body>   
    <!--Introducción y link para ir a la página de selección de colores  -->
-    <h3>Página de cambio de color de fondo de página</h3>
+    <h3>¡Muy buenas! Página de cambio de color de fondo con sesiones</h3>
     <a href="?method=colores">Elija un color de fondo de página</a>  
     
   </body>

@@ -34,7 +34,7 @@ class App {
     public function cambio(){
         session_start();
         $_SESSION["color"] = $_GET["color"];
-        header("Location: Index.php");
+        include('vistas/home.php');
     }
     
 }
